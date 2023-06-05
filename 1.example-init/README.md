@@ -1,8 +1,8 @@
-# terraform-workshop
-Terraform Workshop
+# Terraform Workshop
+
+## 1.example-init
 
 # Provide AWS credentials
-
 ## Windows
 set AWS_ACCESS_KEY_ID="anaccesskey"
 set AWS_SECRET_ACCESS_KEY="asecretkey“
