@@ -5,3 +5,4 @@
 ## 3.example1-add-vpc
 ## 4.example1-local-variables
 ## 5.example1-variables
+## 6.example1-variables-validation
