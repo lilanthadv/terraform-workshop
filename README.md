@@ -6,3 +6,4 @@
 ## 4.example1-local-variables
 ## 5.example1-variables
 ## 6.example1-variables-validation
+## 7.example1-outputs
