@@ -7,3 +7,4 @@
 ## 5.example1-variables
 ## 6.example1-variables-validation
 ## 7.example1-outputs
+## 8.example1-split-to-multiple-files
