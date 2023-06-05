@@ -1,6 +1,6 @@
 # Terraform Workshop
 
-## 3.example-add-vpc
+## 3.example1-add-vpc
 
 `terraform init`
 `terraform validate`

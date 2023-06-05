@@ -1,6 +1,6 @@
 # Terraform Workshop
 
-## 2.example-change
+## 2.example1-change
 
 `terraform init`
 `terraform validate`

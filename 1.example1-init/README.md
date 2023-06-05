@@ -1,6 +1,6 @@
 # Terraform Workshop
 
-## 1.example-init
+## 1.example1-init
 
 # Provide AWS credentials
 ## Windows
