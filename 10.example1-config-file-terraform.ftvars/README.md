@@ -8,3 +8,6 @@
 `terraform apply`
 `terraform destroy`
 
+## override terraform.tfvars varibles using command-line flags
+`terraform plan -var="stage=stg"`
+`terraform apply -var="stage=stg"`
