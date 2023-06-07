@@ -11,3 +11,4 @@
 ## 9.example1-modules
 ## 10.example1-config-file-terraform.ftvars
 ## 11.example1-custom-config-file.ftvars
+## 12.example1-config-file-.auto.ftvars
