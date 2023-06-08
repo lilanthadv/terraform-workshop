@@ -1,6 +1,6 @@
 # Terraform Workshop
 
-## 14.example1-remote-state
+## 14.example1-remote-state-s3
 
 `terraform init`
 `terraform validate`

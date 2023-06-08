@@ -13,6 +13,7 @@
 ## 11.example1-custom-config-file.ftvars
 ## 12.example1-config-file-.auto.ftvars
 ## 13.example1-workspaces
-## 14.example1-remote-state
-## 15.example1-multiple-env
-## 16.example1-export-data-to-parameter-store
+## 14.example1-remote-state-s3
+## 15.example1-remote-state-cloud
+## 16.example1-multiple-env
+## 17.example1-export-data-to-parameter-store

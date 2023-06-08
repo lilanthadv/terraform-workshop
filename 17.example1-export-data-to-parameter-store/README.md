@@ -1,6 +1,6 @@
 # Terraform Workshop
 
-## 16.example1-export-data-to-parameter-store
+## 17.example1-export-data-to-parameter-store
 
 ## create new s3 bucket and dynamodb_table
 

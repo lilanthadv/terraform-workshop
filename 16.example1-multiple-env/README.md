@@ -1,6 +1,6 @@
 # Terraform Workshop
 
-## 15.example1-multiple-env
+## 16.example1-multiple-env
 
 ## create new s3 bucket and dynamodb_table
 
