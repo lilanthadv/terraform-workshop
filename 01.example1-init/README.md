@@ -4,16 +4,16 @@
 
 # Provide AWS credentials
 ## Windows
-set AWS_ACCESS_KEY_ID="anaccesskey"
-set AWS_SECRET_ACCESS_KEY="asecretkey“
+set AWS_ACCESS_KEY_ID="anaccesskey"\
+set AWS_SECRET_ACCESS_KEY="asecretkey“\
 
 ## Mac or Linux
-export AWS_ACCESS_KEY_ID="anaccesskey"
-export AWS_SECRET_ACCESS_KEY="asecretkey"
+export AWS_ACCESS_KEY_ID="anaccesskey"\
+export AWS_SECRET_ACCESS_KEY="asecretkey"/
 
-`terraform init`<br />
-`terraform validate`<br />
-`terraform plan`<br />
-`terraform apply`<br />
-`terraform destroy`<br />
+`terraform init`\
+`terraform validate`\
+`terraform plan`\
+`terraform apply`\
+`terraform destroy`\
 
