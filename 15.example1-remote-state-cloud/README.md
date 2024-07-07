@@ -12,12 +12,12 @@
 
 ## replace below values in main.tf file
 
-`backend "remote" {
-hostname = ""
-organization = ""
-
-    workspaces {
-      name = ""
-    }
-
-}`
+`backend "remote" {`\
+`hostname = ""`\
+`organization = ""`\
+``\
+`    workspaces {`\
+`      name = ""`\
+`    }`\
+``\
+`}`\
