@@ -15,9 +15,7 @@
 `backend "remote" {`\
 `hostname = ""`\
 `organization = ""`\
-``\
-`    workspaces {`\
-`      name = ""`\
-`    }`\
-``\
+    workspaces {
+      name = ""
+    }
 `}`\
