@@ -6,13 +6,13 @@
 
 ## replace below values in main.tf file
 
-bucket = ""
-key = ""
-region = ""
+bucket = ""\
+key = ""\
+region = ""\
 dynamodb_table = ""
 
-`terraform init`
-`terraform validate`
-`terraform plan`
-`terraform apply`
+`terraform init`\
+`terraform validate`\
+`terraform plan`\
+`terraform apply`\
 `terraform destroy`
