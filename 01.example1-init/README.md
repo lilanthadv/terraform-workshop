@@ -11,9 +11,9 @@ set AWS_SECRET_ACCESS_KEY="asecretkey“
 export AWS_ACCESS_KEY_ID="anaccesskey"
 export AWS_SECRET_ACCESS_KEY="asecretkey"
 
-`terraform init`
-`terraform validate`
-`terraform plan`
-`terraform apply`
-`terraform destroy`
+`terraform init`<br />
+`terraform validate`<br />
+`terraform plan`<br />
+`terraform apply`<br />
+`terraform destroy`<br />
 
