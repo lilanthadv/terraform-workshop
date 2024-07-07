@@ -12,7 +12,7 @@
 
 ## replace below values in main.tf file
 
-backend "remote" {
+`backend "remote" {
 hostname = ""
 organization = ""
 
@@ -20,4 +20,4 @@ organization = ""
       name = ""
     }
 
-}
+}`
